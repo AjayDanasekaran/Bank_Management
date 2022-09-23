@@ -3,7 +3,7 @@
 The banking management system has tools for bank employees to perform the customer
 related bank work. The bank employees can use these tools to easily create accounts for new
 customers and choose between a current account or savings account. The bank employees can
-record deposits and withdrawals made by the customer. The can modify the details of the
+record deposits and withdrawals made by the customer. The employee can modify the details of the
 account, view all account holders in a list and close accounts of a customer.
 # Requirements
 * Compiler: C++ compiler Dev or Turbo C++  
