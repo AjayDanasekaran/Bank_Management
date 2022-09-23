@@ -5,7 +5,7 @@ related bank work. The bank employees can use these tools to easily create accou
 customers and choose between a current account or savings account. The bank employees can
 record deposits and withdrawals made by the customer. The employee can modify the details of the
 account, view all account holders in a list and close accounts of a customer.
-Operations that can be performed  
+# Operations
 * NEW ACCOUNT
 * DEPOSIT MONEY
 * WITHDRAW MONEY
