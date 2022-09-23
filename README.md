@@ -5,6 +5,17 @@ related bank work. The bank employees can use these tools to easily create accou
 customers and choose between a current account or savings account. The bank employees can
 record deposits and withdrawals made by the customer. The employee can modify the details of the
 account, view all account holders in a list and close accounts of a customer.
+Operations that can be performed  
+* NEW ACCOUNT
+* DEPOSIT MONEY
+* WITHDRAW MONEY
+* TRANSFER MONEY
+* TAKE LOAN
+* PAY LOAN
+* BALANCE ENQUIRY
+* ACCOUNT HOLDER LIST
+* MODIFY AN ACCOUNT
+* CLOSE AN ACCOUNT
 # Requirements
 * Compiler: C++ compiler Dev or Turbo C++  
 * Place the main.cpp in C:\TURBOC3\BIN and import/open in application and run.
